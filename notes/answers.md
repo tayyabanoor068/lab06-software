@@ -1,0 +1,1 @@
+apt update downloads the latest list of available packages from repositories without installing anything. apt upgrade actually downloads and installs the newer versions of the packages currently installed on the system. Always run update before upgrade.
